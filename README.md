@@ -5,3 +5,6 @@ Currently doesn't work on linux sadly due to me not having a linux pc to test it
 
 # How to run
 read the tutorial.txt
+
+# Download?
+check releases
