@@ -1,10 +1,10 @@
 # Wrapper-Offline-Launcher-for-macOS
-A Wrapper offline launcher i made in shell. Also works on macos
-Currently doesn't work on linux sadly due to me not having a linux pc to test it on
+A Wrapper offline launcher i made in shell.  works on macos
+Currently doesn't work on linux 
 
 
 # How to run
-read the tutorial.txt
+read the releases
 
 # Download?
 check releases
